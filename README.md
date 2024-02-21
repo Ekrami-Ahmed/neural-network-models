@@ -1,1 +1,1 @@
-here is a NN models to classfiy Positive and negative comments
+Here are some of the NN models to classify Positive and negative comments
